@@ -1,7 +1,7 @@
 <?php
     // Using values to make all conditions to be true
     $age = 18;
-    $pvc = true;
+    $pvc = "true";
     $ward = 020;
 
     if ($age < 18) {
