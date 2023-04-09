@@ -16,7 +16,7 @@ I was required to write a function that validates a voter based on the age, PVC 
 
 All 3 requirements must be true before the voter will be eligible to vote.
 
-A reason is shown for every failed reuirement.
+A reason is shown for every failed requirement.
 
 
 
